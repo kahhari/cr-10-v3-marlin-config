@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.7.1-FiZi-BL"
+#define SHORT_BUILD_VERSION "2.0.7.1-cvz-BL"
 
 /**
  * Verbose version identifier which should contain a reference to the location
